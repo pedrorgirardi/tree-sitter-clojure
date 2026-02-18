@@ -1,4 +1,4 @@
-module github.com/pedro/tree-sitter-clojure
+module github.com/pedrorgirardi/tree-sitter-clojure
 
 go 1.22
 
