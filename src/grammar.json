@@ -1,4 +1,5 @@
 {
+  "$schema": "https://tree-sitter.github.io/tree-sitter/assets/schemas/grammar.schema.json",
   "name": "clojure",
   "rules": {
     "source": {
@@ -1934,6 +1935,6 @@
     "_sym_qualified",
     "_sym_unqualified"
   ],
-  "supertypes": []
+  "supertypes": [],
+  "reserved": {}
 }
-
